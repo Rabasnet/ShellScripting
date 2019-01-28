@@ -1,0 +1,5 @@
+Variable1=APPLE
+Variable2=BALL
+Variable3=CAT
+Variable4=DOG
+Variable5=EGG
